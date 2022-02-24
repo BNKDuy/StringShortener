@@ -48,13 +48,7 @@ public class JavaApplication59 {
 
         System.out.println("\nAlgorithm 2");
 
-        //for (int i = 0; i < in.length(); i++)
-        //{
-          //if (!in.substring(i, i + 1).equals(" ") && )
-          //{
-            //for (int t = 0, t < )
-          //}
-        //}
+        
     }
     
 }
