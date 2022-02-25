@@ -70,6 +70,6 @@ public class JavaApplication59 {
         System.out.println("Algorithm 2 message: " + out2);
         System.out.println("Algorithm 2 characters saved: " + (in.length() - out2.length()));
         
-        System.out.println("hi");
+        System.out.println("hello");
     }
 }
